@@ -12,7 +12,7 @@ from tqdm import tqdm
 BASE_URL = "https://api.datasource.cybotrade.rs"
 
 # Your API key - replace with your actual key
-API_KEY = "az3v1MiAGkA6AtOx2PyspuewcwbtT4hJXLUnUjbloczWP1c9"
+API_KEY = "apikey"
 
 # Symbols to fetch
 SYMBOLS = ["BTCUSDT", "ETHUSDT"]
